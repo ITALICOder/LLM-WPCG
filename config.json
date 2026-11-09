@@ -1,0 +1,13 @@
+{
+  "llama_url": "http://localhost:8080/v1/chat/completions",
+  "essid_file": "essids.txt",
+  "output_file": "generated_passwords.txt",
+  "backup_dir": "backups",
+  "max_retries": 5,
+  "timeout": 600.0,
+  "temperature": 1.0,
+  "max_tokens": 1024,
+  "passwords_per_prompt": 6,
+  "run_id": "",
+  "infinite_loop": true
+}
